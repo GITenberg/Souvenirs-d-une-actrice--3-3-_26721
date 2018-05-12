@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32136
     wikipedia: http://fr.wikipedia.org/wiki/Louise_Fusil
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26721#Souvenirs-d-une-actrice--3-3-
 gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
 gutenberg_issued: '2008-09-28'
 gutenberg_type: Text
