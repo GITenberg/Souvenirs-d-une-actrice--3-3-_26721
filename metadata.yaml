@@ -1,0 +1,30 @@
+_repo: Souvenirs-d-une-actrice--3-3-_26721
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fusil, Louise
+    birthdate: 1774
+    deathdate: 1848
+    gutenberg_agent_id: '32136'
+    url: http://www.gutenberg.org/2009/agents/32136
+    wikipedia: http://fr.wikipedia.org/wiki/Louise_Fusil
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2008-09-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26721'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- History -- Revolution, 1789-1799 -- Personal narratives'
+- !lcsh 'Actresses -- France -- Correspondence'
+- !lcc 'DC'
+- !lcsh 'Fusil, Louise, 1774-1848 -- Correspondence'
+title: Souvenirs d'une actrice (3/3)
+url: http://www.gutenberg.org/ebooks/26721
